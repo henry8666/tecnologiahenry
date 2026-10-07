@@ -1,12 +1,6 @@
 /* =======================================================================
    TECH DEL MES — script.js
    -----------------------------------------------------------------------
-   AQUÍ EDITAS TODO EL CONTENIDO SIN TOCAR EL DISEÑO.
-
-   1) productos   -> las tarjetas del CARRUSEL (recomendados del mes)
-   2) solicitados -> la sección "Productos solicitados por la comunidad"
-
- 
    ======================================================================= */
 
 /* ---------- 1) CARRUSEL: recomendados del mes ---------- */
@@ -15,19 +9,19 @@ const productos = [
     img:"https://picsum.photos/id/0/700/500",
     nombre:"Laptop para estudiantes",
     razon:"Elegimos este modelo este mes porque tiene la mejor batería del mercado para estudiantes.",
-    enlace:"/"
+    enlace:"https://www.amazon.com/"
   },
   {
     img:"https://picsum.photos/id/3/700/500",
     nombre:"Audifonos inalámbricos",
     razon:"Los recomendamos por su cancelación de ruido y su precio justo para concentrarse al estudiar.",
-    enlace:"/"
+    enlace:"https://www.amazon.com/"
   },
   {
     img:"https://picsum.photos/id/48/700/500",
     nombre:"Teclado mecánico",
     razon:"Nuestra elección del mes por su durabilidad y comodidad para escribir muchas horas.",
-    enlace:"/"
+    enlace:"https://www.amazon.com/"
   }
 ];
 
@@ -37,19 +31,19 @@ const solicitados = [
     img:"https://picsum.photos/id/60/600/400",
     nombre:"Monitor 24 pulgadas",
     desc:"Nos lo pidió María. Ideal para estudiar y trabajar sin cansar la vista.",
-    enlace:"/"
+    enlace:"https://www.amazon.com/"
   },
   {
     img:"https://picsum.photos/id/180/600/400",
     nombre:"Mouse ergonómico",
     desc:"Solicitado por Carlos. Cómodo para jornadas largas frente al computador.",
-    enlace:"/"
+    enlace:"https://www.amazon.com/"
   },
   {
     img:"https://picsum.photos/id/201/600/400",
     nombre:"Disco SSD externo",
     desc:"Pedido por Lucía. Rápido y portátil para guardar tus archivos.",
-    enlace:"/"
+    enlace:"https://www.amazon.com/"
   }
 ];
 
@@ -229,4 +223,5 @@ document.addEventListener('click', (e) => {
             e.stopPropagation();
         }
     }
-}, true); 
+}, true);   
+
