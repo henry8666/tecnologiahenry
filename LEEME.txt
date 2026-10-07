@@ -1,0 +1,64 @@
+====================================================
+  TECH DEL MES · Guía rápida de uso
+  Hecho por Henry Bellorin
+====================================================
+
+
+
+----------------------------------------------------
+1) VER EL SITIO
+----------------------------------------------------
+Haz doble clic en "index.html" y se abre en tu navegador.
+
+----------------------------------------------------
+2) EDITAR LOS PRODUCTOS DEL CARRUSEL  (sin tocar el diseño)
+----------------------------------------------------
+Abre "script.js". Arriba del todo verás la lista:  productos
+Cada producto se ve así:
+
+  {
+    img:"URL-DE-LA-FOTO",
+    nombre:"Nombre del producto",
+    razon:"Elegimos este modelo este mes porque...",
+    enlace:"TU-ENLACE-DE-AFILIADO-DE-AMAZON"
+  },
+
+- img    = la foto del producto.
+- nombre = el título.
+- razon  = el textito que explica por qué lo recomiendas este mes.
+- enlace = TU link de afiliado de Amazon (ahí va la gente a ver precio).
+
+Para agregar otro: copia un bloque { ... }, pégalo debajo (separado por
+una coma) y cambia los datos. Guarda y recarga.
+
+El botón "Ver precio actual y opiniones en Amazon" aparece solo; no
+tienes que escribirlo. Si quieres cambiar ese texto, busca en script.js
+la línea:  const TEXTO_BOTON = "...";
+
+----------------------------------------------------
+3) PRODUCTOS SOLICITADOS POR LA COMUNIDAD
+----------------------------------------------------
+Cuando alguien te pida un producto por el formulario, publícalo aquí:
+en "script.js" busca la lista  solicitados  y agrega un bloque igual:
+
+  {
+    img:"URL-DE-LA-FOTO",
+    nombre:"Nombre",
+    desc:"Nos lo pidió Fulanito. Breve descripción...",
+    enlace:"TU-ENLACE-DE-AFILIADO"
+  },
+
+----------------------------------------------------
+
+
+----------------------------------------------------
+5) IMPORTANTE Y LEGAL (Amazon Afiliados)
+----------------------------------------------------
+- El botón lleva a Amazon, donde el usuario ve el precio real. Esto es
+  100% legal: tú no muestras un precio fijo que pueda quedar desactualizado.
+- En el pie de página ya viene el aviso obligatorio de que eres Afiliado
+  de Amazon. No lo quites: Amazon exige mostrarlo.
+- Para ganar comisiones necesitas estar inscrito en "Amazon Associates"
+  (Programa de Afiliados) y usar TUS enlaces de afiliado en "enlace".
+
+----------------------------------------------------

@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tech del Mes · Recomendaciones</title>
+  <meta name="description" content="Las mejores recomendaciones de tecnología del mes, elegidas para ti.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Montserrat:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- ===== ENCABEZADO / MENÚ ===== -->
+  <header class="header" id="header">
+
+    
+    
+    <div class="container header-inner">
+      <a href="#inicio" class="logo">Tech&nbsp;<span>del Mes</span></a>
+      <nav class="nav" id="nav">
+        <a href="#inicio" class="nav-link">Inicio</a>
+        <a href="#recomendados" class="nav-link">Recomendados</a>
+        <a href="#solicitados" class="nav-link">Solicitados</a>
+        <a href="#contacto" class="nav-link">Pide uno</a>
+      </nav>
+      <button class="nav-toggle" id="navToggle" aria-label="Abrir menú">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </header>
+  </header>
+
+<!-- SECCIÓN HERO CON VIDEO DE FONDO -->
+<!-- ===== INICIO / HERO (Con video de fondo) ===== -->
+<section class="hero" id="inicio">
+  
+ 
+  <video autoplay muted loop playsinline class="hero-video">
+    <source src="1046-142621379_medium.mp4" type="video/mp4">
+  </video>
+
+ 
+  <div class="hero-content container">
+    <p class="hero-sub">Recomendaciones honestas</p>
+    <h1 class="hero-title">Lo mejor de la<br>tecnología, cada mes</h1>
+    <p class="hero-text">Seleccionamos productos probados y te decimos por qué valen la pena. Tú decides.</p>
+    <a href="#recomendados" class="btn btn-primary">Ver recomendados</a>
+  </div>
+  
+
+  <a href="#recomendados" class="hero-scroll" aria-label="Bajar"><i></i></a>
+</section>
+
+  <!-- ===== RECOMENDADOS DEL MES (carrusel) ===== -->
+  <section class="section" id="recomendados">
+    <div class="container">
+      <p class="section-sub">Selección del mes</p>
+      <h2 class="section-title">Nuestros recomendados</h2>
+
+      <div class="carrusel">
+        <button class="car-flecha car-prev" id="carPrev" aria-label="Anterior">&#10094;</button>
+        <div class="car-ventana">
+          <div class="car-track" id="carTrack"><!-- Se llena desde script.js --></div>
+        </div>
+        <button class="car-flecha car-next" id="carNext" aria-label="Siguiente">&#10095;</button>
+      </div>
+      <div class="car-puntos" id="carPuntos"></div>
+    </div>
+  </section>
+
+  <!-- ===== PRODUCTOS SOLICITADOS POR LA COMUNIDAD ===== -->
+  <section class="section section-alt" id="solicitados">
+    <div class="container">
+      <p class="section-sub">Lo que nos pidieron</p>
+      <h2 class="section-title">Productos solicitados por nuestra comunidad</h2>
+      <p class="section-intro">Estos productos nos los pidieron ustedes. Aquí los dejamos disponibles para ver.</p>
+      <div class="solicitados-grid" id="solicitados-grid"><!-- Se llena desde script.js --></div>
+    </div>
+  </section>
+
+  <!-- ===== CONTACTO / PIDE UN PRODUCTO ===== -->
+  <section class="section" id="contacto">
+    <div class="container contacto-inner">
+      <div class="contacto-info">
+        <p class="section-sub">¿Buscas algo?</p>
+        <h2 class="section-title">Pide un producto</h2>
+        <p class="contacto-text">¿Quieres que recomendemos un producto en concreto? Déjanos tu nombre, tu correo y qué buscas. Cuando lo tengamos listo, lo publicaremos en la sección “Solicitados por la comunidad” y te avisaremos.</p>
+        <ul class="contacto-datos">
+     <li>✉ henrybellorin66@hotmail.com</li>
+    <li><a href="https://www.tiktok.com/@93henry0">TikTok</a></li>
+    <li><a href="https://www.threads.com/@henry2015g?igshid=NTc4MTIwNjQ2YQ==">Instagran</a>
+    <li>Envíos y precios se ven en Amazon</li>
+
+      </div>
+
+      <form class="form" id="form" action="https://formspree.io/f/xrpeeqja" method="POST" autocomplete="off">
+        <div class="campo">
+          <label for="nombre">Nombre</label>
+          <input type="text" id="nombre" name="nombre" required>
+        </div>
+        <div class="campo">
+          <label for="email">Correo</label>
+          <input type="email" id="email" name="email" required>
+        </div>
+        <div class="campo">
+          <label for="producto">¿Qué producto buscas?</label>
+          <input type="text" id="producto" name="producto" placeholder="Ej: audifonos para estudiar" required>
+        </div>
+        <div class="campo">
+          <label for="mensaje">Detalles (opcional)</label>
+          <textarea id="mensaje" name="mensaje" rows="3"></textarea>
+        </div>
+        <input type="text" name="_gotcha" class="honeypot" tabindex="-1" autocomplete="off">
+        <button type="submit" class="btn btn-primary">Enviar petición</button>
+        <p class="form-estado" id="formEstado"></p>
+      </form>
+    </div>
+  </section>
+
+  <!-- ===== PIE DE PÁGINA ===== -->
+  <footer class="footer">
+    <div class="container footer-inner">
+      <a href="#inicio" class="logo">Tech&nbsp;<span>del Mes</span></a>
+      <p class="aviso-afiliado">Como Afiliado de Amazon, generamos ingresos por las compras que cumplen los requisitos. Los precios y la disponibilidad se muestran en Amazon y pueden cambiar.</p>
+      <p class="copy">© 2026 Tech del Mes. Hecho por Henry Bellorin.</p>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
