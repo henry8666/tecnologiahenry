@@ -87,7 +87,7 @@ const solicitados = [
 ];
 
 /* =======================================================================
-   DE AQUÍ EN ADELANTE ES LA LÓGICA. No necesitas cambiar nada.
+   
    ======================================================================= */
 const TEXTO_BOTON = "Ver precio actual y opiniones en Amazon";
 
@@ -144,7 +144,7 @@ function reiniciarAuto(){
   iniciarAuto(); 
 }
 
-/* ---------- Pintar los solicitados ---------- */
+/* ----------  ---------- */
 const solGrid = document.getElementById("solicitados-grid");
 if(solGrid){
   solGrid.innerHTML = solicitados.map(s => `
@@ -297,3 +297,5 @@ modalEl?.addEventListener('click', (e) => {
         cerrarModalFunc();
     }
 });
+
+
