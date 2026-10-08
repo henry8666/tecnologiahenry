@@ -1,49 +1,88 @@
-/* =======================================================================
-   TECH DEL MES — script.js
-   -----------------------------------------------------------------------
-   ======================================================================= */
-
 /* ---------- 1) CARRUSEL: recomendados del mes ---------- */
 const productos = [
   {
-    img:"https://picsum.photos/id/0/700/500",
-    nombre:"Laptop para estudiantes",
-    razon:"Elegimos este modelo este mes porque tiene la mejor batería del mercado para estudiantes.",
-    enlace:"https://www.amazon.com/"
+    img:"https://m.media-amazon.com/images/I/71+ZseyMaLL._AC_SL1500_.jpg",
+    nombre:"Creada para tu rutina, pensada para tus sueños",
+    razon:"Tu inspiración para cada día. La Microsoft Surface Pro une la potencia de una laptop y la ligereza de una tablet en tus manos. Diseñada para transformar tu rutina y dar vida a tus grandes ideas en cualquier lugar.",
+    enlace:"https://link.amazon/A0cP1C0Jq",
+    galeria: [
+      "https://m.media-amazon.com/images/I/6117VV5FLfL._AC_SL1284_.jpg",
+      "https://m.media-amazon.com/images/I/71wmLWFVGGL._AC_SL1500_.jpg",
+       "https://m.media-amazon.com/images/I/71Fx6nO5vhL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71OB1t2FuLL._AC_SL1500_.jpg",
+       "https://m.media-amazon.com/images/I/618RaJBLS8L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61IO6wOW1pL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71wmLWFVGGL._AC_SL1500_.jpg",
+       "https://m.media-amazon.com/images/I/71+ZseyMaLL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71ucchZzKnL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61-TnIFkZzL._AC_SL1500_.jpg"
+    ]
   },
   {
-    img:"https://picsum.photos/id/3/700/500",
-    nombre:"Audifonos inalámbricos",
-    razon:"Los recomendamos por su cancelación de ruido y su precio justo para concentrarse al estudiar.",
-    enlace:"https://www.amazon.com/"
+    img:"https://m.media-amazon.com/images/I/71Q+42JxLDL._AC_SL1500_.jpg",
+    nombre:"Abriendo las puertas a tu futuro, día a día.",
+    razon:"Los recomendamos (Conectando tus ganas de aprender con el mundo).",
+    enlace:"https://link.amazon/B0esbOhl0",
+    galeria: [
+      "https://m.media-amazon.com/images/I/716DMf+QlLL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61+JMQrEw8L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71V3Y2ejzgL._AC_SL1500_.jpg",
+       "https://m.media-amazon.com/images/I/71I1GOOYr6L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71zYaevj15L._AC_SL1500_.jpg", 
+       "https://m.media-amazon.com/images/I/718724ksElL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71SvhQFvuNL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61KXDxgjyeL._AC_SL1500_.jpg"
+    ]
   },
   {
-    img:"https://picsum.photos/id/48/700/500",
-    nombre:"Teclado mecánico",
-    razon:"Nuestra elección del mes por su durabilidad y comodidad para escribir muchas horas.",
-    enlace:"https://www.amazon.com/"
+    img:"https://m.media-amazon.com/images/I/71NMFO0iUhL._AC_SL1500_.jpg",
+    nombre:"AMD Ryzen 7 9800X3D: El Rey Absoluto del Gaming ya está Aquí 👑🚀",
+    razon:"Lleva tus juegos a un nivel nunca antes visto. Equipado con la revolucionaria tecnología AMD 3D V-Cache y arquitectura Zen 5, este procesador destruye cualquier límite de rendimiento, ofreciéndote la máxima tasa de cuadros por segundo y una fluidez brutal en los títulos más exigentes del mercado.",
+    enlace:"https://link.amazon/B0dUjBunw",
+    galeria: [
+      "https://m.media-amazon.com/images/I/71NMFO0iUhL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/5195hGcJ0IL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71KDfkysoeL._AC_SL1500_.jpg"
+    
+    ]
+  },
+  {
+    img:"https://m.media-amazon.com/images/I/711NjccGktL._AC_SL1500_.jpg",
+    nombre:"ASUS TUF A16: Domina tu Destino 🔥",
+    razon:"El escenario donde se forjan las leyendas. ⚔️✨No es solo una laptop; es la puerta de entrada a mundos extraordinarios y victorias inolvidables. Con la fuerza bruta del procesador AMD Ryzen 7 y la velocidad de los gráficos RTX 4050, la ASUS TUF A16 está diseñada para superar contigo cada desafío y convertir tus horas de juego en pura pasión.Despierta al guerrero que llevas dentro y conquista tus metas diarias..",
+    enlace:"https://link.amazon/B027khqEzS",
+    galeria: [
+      "https://m.media-amazon.com/images/I/71Xv-C1vmEL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61EnIKsbMkL._AC_SL1500_.jpg",
+       "https://m.media-amazon.com/images/I/71-WDaaZYLL._AC_SL1250_.jpg",
+      "https://m.media-amazon.com/images/I/71NhxRk3y3L._AC_SL1500_.jpg",
+       "https://m.media-amazon.com/images/I/61zeScRVCSL._AC_SL1200_.jpg",
+      "https://m.media-amazon.com/images/I/711Fc0ioNHL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81XYH5JyylL._AC_SL1500_.jpg"
+    ]
   }
 ];
 
 /* ---------- 2) Productos solicitados por la comunidad ---------- */
 const solicitados = [
   {
-    img:"https://picsum.photos/id/60/600/400",
-    nombre:"Monitor 24 pulgadas",
-    desc:"Nos lo pidió María. Ideal para estudiar y trabajar sin cansar la vista.",
-    enlace:"https://www.amazon.com/"
+    img:"https://m.media-amazon.com/images/I/71QT0JmWP8L._AC_SL1500_.jpg",
+    nombre:"RedThunder K10: Rompe las Reglas, Domina el Juego ⚡",
+    desc:"Nos lo pidió María. Despídete de los cables molestos. Siente la máxima precisión táctil y total libertad inalámbrica en cada una de tus partidas.",
+    enlace:"https://link.amazon/A01i1ArKi"
   },
   {
-    img:"https://picsum.photos/id/180/600/400",
-    nombre:"Mouse ergonómico",
-    desc:"Solicitado por Carlos. Cómodo para jornadas largas frente al computador.",
-    enlace:"https://www.amazon.com/"
+    img:"https://m.media-amazon.com/images/I/61ci5Xwyk1L._AC_SL1500_.jpg",
+    nombre:"• Energy Sistem SoundReel TV: Cine en tus Oídos 🎧",
+    desc:"Solicitado por Carlos. Lleva el cine a tus oídos sin molestar a nadie. Disfruta tus películas favoritas con sonido de alta claridad, almohadillas ultra cómodas y cero retrasos de audio..",
+    enlace:"https://link.amazon/B09x7XQYf"
   },
+  
   {
-    img:"https://picsum.photos/id/201/600/400",
-    nombre:"Disco SSD externo",
-    desc:"Pedido por Lucía. Rápido y portátil para guardar tus archivos.",
-    enlace:"https://www.amazon.com/"
+    img:"https://m.media-amazon.com/images/I/61qtPxAj0FL._AC_SL1000_.jpg",
+    nombre:"PC STGaubron Gaming: Potencia Pura para Forjar tus Victorias ⚔️💻",
+    desc:"Entra al juego con un rendimiento brutal. Con los gráficos de la RTX 2060, un procesador Ryzen 5 y 16GB de RAM, esta PC está lista para correr tus juegos competitivos favoritos a máxima velocidad y con una iluminación RGB espectacular que transformará tu habitación.",
+    enlace:"https://link.amazon/B077EVJQE"
   }
 ];
 
@@ -59,10 +98,10 @@ let carActual = 0;
 let carTimer  = null;
 
 if(track){
-  track.innerHTML = productos.map(p => `
+  track.innerHTML = productos.map((p, index) => `
     <div class="car-item">
       <div class="car-card">
-        <img src="${p.img}" alt="${p.nombre}" loading="lazy">
+        <img src="${p.img}" alt="${p.nombre}" data-index="${index}" class="img-carrusel-disparador" loading="lazy">
         <div class="car-cuerpo">
           <h3 class="car-nombre">${p.nombre}</h3>
           <p class="car-razon">${p.razon}</p>
@@ -71,7 +110,6 @@ if(track){
       </div>
     </div>`).join("");
 
-  // Puntos de navegación
   if(puntosEl){
     puntosEl.innerHTML = productos.map((_, i) =>
       `<button class="car-punto ${i===0?"activo":""}" data-i="${i}"></button>`).join("");
@@ -97,8 +135,14 @@ function mostrar(){
   document.querySelectorAll(".car-punto").forEach((b, i) =>
     b.classList.toggle("activo", i === carActual));
 }
-function iniciarAuto(){ carTimer = setInterval(() => irA(carActual + 1), 5000); }
-function reiniciarAuto(){ clearInterval(carTimer); iniciarAuto(); }
+function iniciarAuto(){ 
+  clearInterval(carTimer);
+  carTimer = setInterval(() => irA(carActual + 1), 5000); 
+}
+function reiniciarAuto(){ 
+  clearInterval(carTimer); 
+  iniciarAuto(); 
+}
 
 /* ---------- Pintar los solicitados ---------- */
 const solGrid = document.getElementById("solicitados-grid");
@@ -131,9 +175,9 @@ const estado = document.getElementById("formEstado");
 if(form){
   form.addEventListener("submit", async e => {
     e.preventDefault();
-    if(form._gotcha && form._gotcha.value){ return; }     // anti-spam
+    if(form._gotcha && form._gotcha.value){ return; }
 
-    const datos = new FormData(form);                      // guardar antes de limpiar
+    const datos = new FormData(form);
     if(estado){ estado.textContent = "Enviando..."; estado.className = "form-estado"; }
 
     form.reset();
@@ -161,67 +205,95 @@ if(form){
   });
 }
 
-
 window.addEventListener("pageshow", () => { if(form) form.reset(); });
 
-if (!document.getElementById('lightbox-infalible')) {
-    const lightboxModal = document.createElement('div');
-    lightboxModal.id = 'lightbox-infalible';
-    
-    
-    Object.assign(lightboxModal.style, {
-        position: 'fixed',
-        top: '0',
-        left: '0',
-        width: '100vw',
-        height: '100vh',
-        backgroundColor: 'rgba(0, 0, 0, 0.9)',
-        zIndex: '9999999',
-        display: 'none',
-        justifyContent: 'center',
-        alignItems: 'center',
-        cursor: 'zoom-out'
-    });
 
-    // Creamos la etiqueta de imagen interna del modal
-    const lightboxImg = document.createElement('img');
-    lightboxImg.id = 'lightbox-img-render';
-    Object.assign(lightboxImg.style, {
-        maxWidth: '90vw',
-        maxHeight: '85vh',
-        objectFit: 'contain',
-        borderRadius: '8px',
-        boxShadow: '0 0 30px rgba(0,0,0,0.5)',
-        transition: 'transform 0.2s ease'
-    });
+/* =======================================================================
+   LÓGICA DEL LIGHTBOX INTERACTIVO CON GALERÍA Y DESCRIPCIÓN
+   ======================================================================= */
+let indexProductoGlobal = 0;
+let indexGaleriaGlobal = 0;
 
-    lightboxModal.appendChild(lightboxImg);
-    document.body.appendChild(lightboxModal);
+if (!document.getElementById('lightbox-galeria-interactiva')) {
+    const modal = document.createElement('div');
+    modal.id = 'lightbox-galeria-interactiva';
+    modal.className = 'lightbox-modal-galeria';
 
-    // Al hacer clic en cualquier parte del fondo negro o la imagen grande, se cierra
-    lightboxModal.addEventListener('click', () => {
-        lightboxModal.style.display = 'none';
-    });
+    modal.innerHTML = `
+        <span class="btn-cerrar-modal" id="cerrarLightbox">&times;</span>
+        <button class="flecha-modal-galeria prev" id="prevLightbox">&#10094;</button>
+        
+        <div class="contenido-modal-galeria" id="modalContenidoContenedor">
+            <div class="texto-modal-galeria">
+                <h2 id="tituloModal"></h2>
+                <p id="descripcionModal"></p>
+            </div>
+            <div class="imagen-modal-galeria-wrapper">
+                <img id="imgModal" src="" alt="Vista expandida">
+            </div>
+        </div>
+        
+        <button class="flecha-modal-galeria next" id="nextLightbox">&#10095;</button>
+    `;
+    document.body.appendChild(modal);
 }
 
+const modalEl = document.getElementById('lightbox-galeria-interactiva');
+const imgModalEl = document.getElementById('imgModal');
+const tituloModalEl = document.getElementById('tituloModal');
+const descripcionModalEl = document.getElementById('descripcionModal');
+
+function actualizarModalImagen() {
+    const item = productos[indexProductoGlobal];
+    if (item && item.galeria && item.galeria.length > 0) {
+        if (imgModalEl) imgModalEl.src = item.galeria[indexGaleriaGlobal];
+        if (tituloModalEl) tituloModalEl.textContent = item.nombre;
+        if (descripcionModalEl) descripcionModalEl.textContent = item.razon;
+    }
+}
 
 document.addEventListener('click', (e) => {
- 
-    if (e.target.tagName === 'IMG' && (e.target.closest('.car-card') || e.target.className.includes('car'))) {
-        
-        const modalFlotante = document.getElementById('lightbox-infalible');
-        const imagenFlotante = document.getElementById('lightbox-img-render');
-        
-        if (modalFlotante && imagenFlotante) {
-           
-            imagenFlotante.src = e.target.src;
-          
-            modalFlotante.style.display = 'flex';
-            
-           
-            e.preventDefault();
-            e.stopPropagation();
+    if (e.target && e.target.classList.contains('img-carrusel-disparador')) {
+        const idx = parseInt(e.target.getAttribute('data-index'), 10);
+        if (!isNaN(idx)) {
+            indexProductoGlobal = idx;
+            indexGaleriaGlobal = 0;
+            actualizarModalImagen();
+            if (modalEl) modalEl.style.display = 'flex';
         }
     }
-}, true);   
+});
 
+document.getElementById('prevLightbox')?.addEventListener('click', (e) => {
+    e.stopPropagation();
+    const item = productos[indexProductoGlobal];
+    if (item && item.galeria) {
+        indexGaleriaGlobal--;
+        if (indexGaleriaGlobal < 0) {
+            indexGaleriaGlobal = item.galeria.length - 1;
+        }
+        actualizarModalImagen();
+    }
+});
+
+document.getElementById('nextLightbox')?.addEventListener('click', (e) => {
+    e.stopPropagation();
+    const item = productos[indexProductoGlobal];
+    if (item && item.galeria) {
+        indexGaleriaGlobal++;
+        if (indexGaleriaGlobal >= item.galeria.length) {
+            indexGaleriaGlobal = 0;
+        }
+        actualizarModalImagen();
+    }
+});
+
+const cerrarModalFunc = () => { if (modalEl) modalEl.style.display = 'none'; };
+document.getElementById('cerrarLightbox')?.addEventListener('click', cerrarModalFunc);
+
+modalEl?.addEventListener('click', (e) => {
+    const contenedor = document.getElementById('modalContenidoContenedor');
+    if (contenedor && !contenedor.contains(e.target) && e.target.tagName !== 'BUTTON') {
+        cerrarModalFunc();
+    }
+});
