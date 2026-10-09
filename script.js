@@ -1,64 +1,52 @@
 /* ---------- 1) CARRUSEL: recomendados del mes ---------- */
 const productos = [
   {
-    img:"https://m.media-amazon.com/images/I/71+ZseyMaLL._AC_SL1500_.jpg",
+    img:"imagenes/SurfacePro.png",
     nombre:"Creada para tu rutina, pensada para tus sueños",
     razon:"Tu inspiración para cada día. La Microsoft Surface Pro une la potencia de una laptop y la ligereza de una tablet en tus manos. Diseñada para transformar tu rutina y dar vida a tus grandes ideas en cualquier lugar.",
     enlace:"https://link.amazon/A0cP1C0Jq",
     galeria: [
-      "https://m.media-amazon.com/images/I/6117VV5FLfL._AC_SL1284_.jpg",
-      "https://m.media-amazon.com/images/I/71wmLWFVGGL._AC_SL1500_.jpg",
-       "https://m.media-amazon.com/images/I/71Fx6nO5vhL._AC_SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/71OB1t2FuLL._AC_SL1500_.jpg",
-       "https://m.media-amazon.com/images/I/618RaJBLS8L._AC_SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/61IO6wOW1pL._AC_SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/71wmLWFVGGL._AC_SL1500_.jpg",
-       "https://m.media-amazon.com/images/I/71+ZseyMaLL._AC_SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/71ucchZzKnL._AC_SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/61-TnIFkZzL._AC_SL1500_.jpg"
+      "imagenes/SurfacePro5.png",
+      "imagenes/SurfacePro2.png",
+       "imagenes/SurfacePro3.png",
+      "imagenes/SurfacePro4.png"
+      
     ]
   },
   {
-    img:"https://m.media-amazon.com/images/I/71Q+42JxLDL._AC_SL1500_.jpg",
+    img:"imagenes/Lenovo.png",
     nombre:"Abriendo las puertas a tu futuro, día a día.",
     razon:"Los recomendamos (Conectando tus ganas de aprender con el mundo).",
     enlace:"https://link.amazon/B0esbOhl0",
     galeria: [
-      "https://m.media-amazon.com/images/I/716DMf+QlLL._AC_SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/61+JMQrEw8L._AC_SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/71V3Y2ejzgL._AC_SL1500_.jpg",
-       "https://m.media-amazon.com/images/I/71I1GOOYr6L._AC_SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/71zYaevj15L._AC_SL1500_.jpg", 
-       "https://m.media-amazon.com/images/I/718724ksElL._AC_SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/71SvhQFvuNL._AC_SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/61KXDxgjyeL._AC_SL1500_.jpg"
+      "imagenes/Lenovo2.png",
+      "imagenes/Lenovo3.png",
+      "imagenes/Lenovo.png"
+    
+      
     ]
   },
   {
-    img:"https://m.media-amazon.com/images/I/71NMFO0iUhL._AC_SL1500_.jpg",
+    img:"imagenes/procesador.png",
     nombre:"AMD Ryzen 7 9800X3D: El Rey Absoluto del Gaming ya está Aquí 👑🚀",
     razon:"Lleva tus juegos a un nivel nunca antes visto. Equipado con la revolucionaria tecnología AMD 3D V-Cache y arquitectura Zen 5, este procesador destruye cualquier límite de rendimiento, ofreciéndote la máxima tasa de cuadros por segundo y una fluidez brutal en los títulos más exigentes del mercado.",
     enlace:"https://link.amazon/B0dUjBunw",
     galeria: [
-      "https://m.media-amazon.com/images/I/71NMFO0iUhL._AC_SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/5195hGcJ0IL._AC_SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/71KDfkysoeL._AC_SL1500_.jpg"
+      "imagenes/procesador2.png",
+      "imagenes/procesador3.png"
+      
     
     ]
   },
   {
-    img:"https://m.media-amazon.com/images/I/711NjccGktL._AC_SL1500_.jpg",
+    img:"imagenes/lapto (1).png",
     nombre:"ASUS TUF A16: Domina tu Destino 🔥",
     razon:"El escenario donde se forjan las leyendas. ⚔️✨No es solo una laptop; es la puerta de entrada a mundos extraordinarios y victorias inolvidables. Con la fuerza bruta del procesador AMD Ryzen 7 y la velocidad de los gráficos RTX 4050, la ASUS TUF A16 está diseñada para superar contigo cada desafío y convertir tus horas de juego en pura pasión.Despierta al guerrero que llevas dentro y conquista tus metas diarias..",
     enlace:"https://link.amazon/B08U1LfRB",
     galeria: [
-      "https://m.media-amazon.com/images/I/71Xv-C1vmEL._AC_SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/61EnIKsbMkL._AC_SL1500_.jpg",
-       "https://m.media-amazon.com/images/I/71-WDaaZYLL._AC_SL1250_.jpg",
-      "https://m.media-amazon.com/images/I/71NhxRk3y3L._AC_SL1500_.jpg",
-       "https://m.media-amazon.com/images/I/61zeScRVCSL._AC_SL1200_.jpg",
-      "https://m.media-amazon.com/images/I/711Fc0ioNHL._AC_SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/81XYH5JyylL._AC_SL1500_.jpg"
+      "imagenes/lapto (1).png",
+      "imagenes/lapto3 (1).png",
+       "imagenes/lapto4 (1).png"    
     ]
   }
 ];
@@ -66,20 +54,20 @@ const productos = [
 /* ---------- 2) Productos solicitados por la comunidad ---------- */
 const solicitados = [
   {
-    img:"https://m.media-amazon.com/images/I/71QT0JmWP8L._AC_SL1500_.jpg",
+    img:"imagenes/TecladoGamingSensación.png",
     nombre:"RedThunder K10: Rompe las Reglas, Domina el Juego ⚡",
     desc:"Nos lo pidió María. Despídete de los cables molestos. Siente la máxima precisión táctil y total libertad inalámbrica en cada una de tus partidas.",
     enlace:"https://link.amazon/A01i1ArKi"
   },
   {
-    img:"https://m.media-amazon.com/images/I/61ci5Xwyk1L._AC_SL1500_.jpg",
+    img:"imagenes/Auriculares.png",
     nombre:"• Energy Sistem SoundReel TV: Cine en tus Oídos 🎧",
     desc:"Solicitado por Carlos. Lleva el cine a tus oídos sin molestar a nadie. Disfruta tus películas favoritas con sonido de alta claridad, almohadillas ultra cómodas y cero retrasos de audio..",
     enlace:"https://link.amazon/B09x7XQYf"
   },
   
   {
-    img:"https://m.media-amazon.com/images/I/61qtPxAj0FL._AC_SL1000_.jpg",
+    img:"imagenes/STGAubronComputadora.png",
     nombre:"PC STGaubron Gaming: Potencia Pura para Forjar tus Victorias ⚔️💻",
     desc:"Entra al juego con un rendimiento brutal. Con los gráficos de la RTX 2060, un procesador Ryzen 5 y 16GB de RAM, esta PC está lista para correr tus juegos competitivos favoritos a máxima velocidad y con una iluminación RGB espectacular que transformará tu habitación.",
     enlace:"https://link.amazon/B077EVJQE"
@@ -87,7 +75,7 @@ const solicitados = [
 ];
 
 /* =======================================================================
-   
+   DE AQUÍ EN ADELANTE ES LA LÓGICA. No necesitas cambiar nada.
    ======================================================================= */
 const TEXTO_BOTON = "Ver precio actual y opiniones en Amazon";
 
@@ -144,7 +132,7 @@ function reiniciarAuto(){
   iniciarAuto(); 
 }
 
-/* ----------  ---------- */
+/* ---------- Pintar los solicitados ---------- */
 const solGrid = document.getElementById("solicitados-grid");
 if(solGrid){
   solGrid.innerHTML = solicitados.map(s => `
@@ -297,7 +285,3 @@ modalEl?.addEventListener('click', (e) => {
         cerrarModalFunc();
     }
 });
-
-
-
-

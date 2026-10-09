@@ -231,11 +231,11 @@ a{text-decoration:none;color:inherit;}
 .texto-modal-galeria {
   flex: 1;
   color: var(--texto);
-  max-width: 420px;       
+  max-width: 420px;       /* Un poco más ancho para albergar mejor el texto */
   text-align: left;
   display: flex;
   flex-direction: column;
-  gap: 16px;             
+  gap: 16px;              /* Separa el título del párrafo automáticamente */
   padding: 10px 0;
 }
 
@@ -243,20 +243,20 @@ a{text-decoration:none;color:inherit;}
   font-family: var(--serif);
   font-size: 2.2rem;
   font-weight: 600;
-  line-height: 1.2;      
+  line-height: 1.2;       /* Evita que el título se encime si tiene dos líneas */
   margin: 0;
   color: var(--acento);
 }
 
 .texto-modal-galeria p {
   font-family: var(--sans);
-  font-size: 1.05rem;     
-  line-height: 1.7;      
+  font-size: 1.05rem;     /* Tamaño de letra óptimo para pantallas modernas */
+  line-height: 1.7;       /* CLAVE: Interlineado amplio para que "respire" el texto */
   color: var(--texto-suave);
   margin: 0;
-  max-height: 40vh;       
-  overflow-y: auto;       
-  padding-right: 10px;    
+  max-height: 40vh;       /* Si la razón es gigante (como en ASUS), no romperá el diseño */
+  overflow-y: auto;       /* Permite scroll interno suave si se desborda */
+  padding-right: 10px;    /* Espacio para la barra de scroll */
 }
 
 /* Estilo estético para la barra de scroll del texto del modal (Opcional) */
@@ -285,7 +285,7 @@ a{text-decoration:none;color:inherit;}
 
 /* Botones de navegación laterales (Flechas en los extremos fijos) */
 .flecha-modal-galeria {
-  position: fixed; 
+  position: fixed; /* Cambiado a fixed para fijarse a la pantalla completa */
   background: rgba(255, 255, 255, 0.05);
   border: 1px solid var(--borde);
   color: var(--texto);
@@ -301,14 +301,14 @@ a{text-decoration:none;color:inherit;}
   user-select: none;
   top: 50%;
   transform: translateY(-50%);
-  z-index: 1000005; 
+  z-index: 1000005; /* Asegura que queden siempre por encima de todo */
 }
 
 .flecha-modal-galeria:hover {
   background: var(--acento);
   color: #15130d;
   border-color: var(--acento);
-  transform: translateY(-50%) scale(1.1); 
+  transform: translateY(-50%) scale(1.1); /* Mantiene el centrado vertical al hacer hover */
 }
 
 /* Posicionamiento exacto en cada extremo */
@@ -321,12 +321,11 @@ a{text-decoration:none;color:inherit;}
 }
 .car-card img {
   width: 100%;
-  height: 320px;            
-  object-fit: contain;     
-  background: #ffffff;      
+  height: 320px;            /* Altura fija ideal para las tarjetas */
+  object-fit: contain;      /* Centra y muestra la imagen completa sin recortarla */
+  background: #ffffff;      /* Mantiene el fondo blanco limpio si la imagen es transparente */
   display: block;
-  margin: 0 auto;           
-  padding: 15px;          
+  margin: 0 auto;           /* Fuerza el centrado horizontal */
+  padding: 15px;            /* Le da un margen interno elegante para que respire */
   cursor: zoom-in;
 }
-
