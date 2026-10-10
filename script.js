@@ -46,7 +46,7 @@ const productos = [
     galeria: [
       "imagenes/lapto (1).png",
       "imagenes/lapto3 (1).png",
-       "imagenes/lapto4 (1).png"    
+       "imagenes/latop4.png"    
     ]
   }
 ];
@@ -285,3 +285,4 @@ modalEl?.addEventListener('click', (e) => {
         cerrarModalFunc();
     }
 });
+
