@@ -46,7 +46,7 @@ const productos = [
     galeria: [
       "imagenes/lapto (1).png",
       "imagenes/lapto3 (1).png",
-       "imagenes/latop4.png"    
+       "latop4.png"    
     ]
   }
 ];
