@@ -9,7 +9,7 @@ const productos = [
       "imagenes/Lenovo Idea Tab3.png",
       "imagenes/Lenovo Idea Tab4.png",
        "imagenes/Lenovo Idea Tab5.png",
-      "imagenes/Lenovo Idea Tab.png"
+      "imagenes/Lenovo Tablet.png"
       
     ]
   },
@@ -285,6 +285,7 @@ modalEl?.addEventListener('click', (e) => {
         cerrarModalFunc();
     }
 });
+
 
 
 
