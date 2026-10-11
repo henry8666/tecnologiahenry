@@ -1,7 +1,7 @@
 /* ---------- 1) CARRUSEL: recomendados del mes ---------- */
 const productos = [
   {
-    img:"imagenes/Lenovo Idea Tab – Tablet.png",
+    img:"imagenes/Lenovo Tablet.png",
     nombre:"Lenovo Tablet",
     razon:"Lenovo Idea Tab – Tablet 11 2.5K MediaTek Dimensity 6300, 8 GB RAM, 128 GB UFS, 90 Hz, 4 Altavoces, Wi-Fi 5, Bluetooth 5.2, Android 15 Color Gris ",
     enlace:"https://link.amazon/B0cddB6b1",
@@ -285,6 +285,8 @@ modalEl?.addEventListener('click', (e) => {
         cerrarModalFunc();
     }
 });
+
+
 
 
 
