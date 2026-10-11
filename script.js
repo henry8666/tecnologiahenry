@@ -15,7 +15,7 @@ const productos = [
   },
   {
     img:"imagenes/Lenovo.png",
-    nombre:"Abriendo las puertas a tu futuro, día a día.",
+    nombre:"Lenovo Chromebook.Abriendo las puertas a tu futuro, día a día.",
     razon:"Los recomendamos (Conectando tus ganas de aprender con el mundo).",
     enlace:"https://link.amazon/B0esbOhl0",
     galeria: [
@@ -285,4 +285,6 @@ modalEl?.addEventListener('click', (e) => {
         cerrarModalFunc();
     }
 });
+
+
 
