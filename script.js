@@ -54,7 +54,7 @@ const productos = [
 /* ---------- 2) Productos solicitados por la comunidad ---------- */
 const solicitados = [
   {
-    img:"imagenes/Barra de Sonido con Iluminación RGB 12W,4.png",
+    img:"imagenes/ Barra de Sonido con Iluminación RGB 12W,4.png",
     nombre:"Barra de Sonido Gaming GXTrust GXT 620⚡",
     desc:"El mejor precio en tu alcance.Dale Vida a tu Escritorio! Barra de Sonido Gaming GXTrust GXT 620 Axon 12W con Iluminación RGB 🎧🔥.",
     enlace:"https://link.amazon/B07GecZim"
