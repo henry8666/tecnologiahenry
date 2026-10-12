@@ -54,9 +54,9 @@ const productos = [
 /* ---------- 2) Productos solicitados por la comunidad ---------- */
 const solicitados = [
   {
-    img:"imagenes/TecladoGamingSensación.png",
-    nombre:"RedThunder K10: Rompe las Reglas, Domina el Juego ⚡",
-    desc:"Nos lo pidió María. Despídete de los cables molestos. Siente la máxima precisión táctil y total libertad inalámbrica en cada una de tus partidas.",
+    img:"imagenes/ Barra de Sonido con Iluminación RGB 12W,4.png",
+    nombre:"Barra de Sonido Gaming GXTrust GXT 620⚡",
+    desc:"Nos lo pidió Ana. Dale Vida a tu Escritorio! Barra de Sonido Gaming GXTrust GXT 620 Axon 12W con Iluminación RGB 🎧🔥.",
     enlace:"https://link.amazon/A01i1ArKi"
   },
   {
@@ -285,6 +285,8 @@ modalEl?.addEventListener('click', (e) => {
         cerrarModalFunc();
     }
 });
+
+
 
 
 
