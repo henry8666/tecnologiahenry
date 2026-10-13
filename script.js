@@ -13,6 +13,24 @@ const productos = [
       
     ]
   },
+
+  {
+    img:"imagenes/Lenovo.png",
+    nombre:"Belkin Gaming Bolsa de Viaje Bolsillo para AirTag Nintendo Switch 2 Carbón.",
+    razon:"Los recomendamos (🎮 ¡Protege tu Nintendo Switch 2 con estilo! Funda Belkin de viaje color Carbón: carcasa rígida, interior acolchado, compacta y ligera. Con bolsillo para AirTag y tarjetas de juegos. ¡Ideal para viajar!).",
+    enlace:"https://link.amazon/B08nqNb7I",
+    galeria: [
+      "imagenes/Belkin Gaming Bolsa 6.jpeg",
+      "imagenes/Belkin Gaming 5jpeg",
+       "imagenes/Belkin Gaming Bolsa de Viaje Bolsillo para AirTag Nintendo Switch 2 Carbón2.png",
+      "imagenes/BBelkin Gaming Bolsa de Viaje Bolsillo para AirTag Nintendo Switch 2 Carbón4.png",
+      "imagenes/Bolsa de Viaje Bolsillo para AirTag Nintendo Switch 2 Carbón.png"
+    
+      
+    ]
+  },
+
+  
   {
     img:"imagenes/Lenovo.png",
     nombre:"Lenovo Chromebook.Abriendo las puertas a tu futuro, día a día.",
