@@ -15,7 +15,7 @@ const productos = [
   },
 
   {
-    img:"imagenes/Lenovo.png",
+    img:"imagenes/Belkin Gaming Bolsa de Viaje Bolsillo para AirTag Nintendo Switch 2 Carbón4.png",
     nombre:"Belkin Gaming Bolsa de Viaje Bolsillo para AirTag Nintendo Switch 2 Carbón.",
     razon:"Los recomendamos (🎮 ¡Protege tu Nintendo Switch 2 con estilo! Funda Belkin de viaje color Carbón: carcasa rígida, interior acolchado, compacta y ligera. Con bolsillo para AirTag y tarjetas de juegos. ¡Ideal para viajar!).",
     enlace:"https://link.amazon/B08nqNb7I",
@@ -23,8 +23,8 @@ const productos = [
       "imagenes/Belkin Gaming Bolsa 6.jpeg",
       "imagenes/Belkin Gaming 5jpeg",
        "imagenes/Belkin Gaming Bolsa de Viaje Bolsillo para AirTag Nintendo Switch 2 Carbón2.png",
-      "imagenes/BBelkin Gaming Bolsa de Viaje Bolsillo para AirTag Nintendo Switch 2 Carbón4.png",
-      "imagenes/Bolsa de Viaje Bolsillo para AirTag Nintendo Switch 2 Carbón.png"
+      "imagenes/Belkin Gaming Bolsa de Viaje Bolsillo para AirTag Nintendo Switch 2 Carbón4.png",
+      "imagenes/Belkin Gaming Bolsa de Viaje Bolsillo para AirTag Nintendo Switch 2 Carbón.png"
     
       
     ]
