@@ -13,6 +13,21 @@ const productos = [
       
     ]
   },
+   {
+    img:"imagenes/Funda de Portátil4.jpeg",
+    nombre:"NGS MONRAY ENTERPRISE - Maletín de Nylon para Ordenador Portátil 15,6 Funda de Portátil.",
+    razon:"Los recomendamos (Protege tu portátil de golpes, rayones y el día a día con este maletín resistente y ligero... ¡por menos de 7€! 😱.",
+    enlace:"https://link.amazon/B0bkRRAS4",
+    galeria: [
+      "imagenes/Funda de Portátil.jpeg",
+      "imagenes/Funda de Portátil2.jpeg",
+       "imagenes/Funda de Portátil3.jpeg",
+      "imagenes/Funda de Portátil4.jpeg"
+      
+    
+      
+    ]
+  },
 
   {
     img:"imagenes/Belkin Gaming Bolsa de Viaje Bolsillo para AirTag Nintendo Switch 2 Carbón4.png",
