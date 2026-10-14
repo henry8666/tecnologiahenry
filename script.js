@@ -31,15 +31,15 @@ const productos = [
   },
 
    {
-    img:"Xiaomi REDMI Buds 8 Active, Auriculares.png",
+    img:"imagenes/Xiaomi REDMI Buds 8 Active, Auriculares.png",
     nombre:"Xiaomi REDMI Buds 8 Active, Auriculares semiintraurales, 37 h, Blanco",
     razon:"Los recomendamos (Xiaomi Redmi Buds 8 Active redefinen lo que significa potencia y libertad. Equipados con un colosal driver dinámico de 14.2 mm con diafragma de titanio, e).",
     enlace:"https://link.amazon/B0esbOhl0",
     galeria: [
-      "Xiaomi REDMI Buds 8 Active,3.jpeg",
-      "Xiaomi REDMI Buds 8 Active,8.jpeg",
-      "Xiaomi REDMI Buds 8 Active,9.jpeg",
-      "Xiaomi REDMI Buds 8 Active,4.jpeg"
+      "imagenes/Xiaomi REDMI Buds 8 Active,3.jpeg",
+      "imagenes/Xiaomi REDMI Buds 8 Active,8.jpeg",
+      "imagenes/Xiaomi REDMI Buds 8 Active,9.jpeg",
+      "imagenes/Xiaomi REDMI Buds 8 Active,4.jpeg"
     
       
     ]
