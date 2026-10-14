@@ -34,7 +34,7 @@ const productos = [
     img:"imagenes/Xiaomi REDMI Buds 8 Active, Auriculares.png",
     nombre:"Xiaomi REDMI Buds 8 Active, Auriculares semiintraurales, 37 h, Blanco",
     razon:"Los recomendamos (Xiaomi Redmi Buds 8 Active redefinen lo que significa potencia y libertad. Equipados con un colosal driver dinámico de 14.2 mm con diafragma de titanio, e).",
-    enlace:"https://link.amazon/B02OeOGZF",
+    enlace:"https://link.amazon/B0fLRuutw",
     galeria: [
       "imagenes/Xiaomi REDMI Buds 8 Active,3.jpeg",
       "imagenes/Xiaomi REDMI Buds 8 Active,8.jpeg",
@@ -93,17 +93,17 @@ const solicitados = [
     enlace:"https://link.amazon/B07GecZim"
   },
   {
-    img:"imagenes/Auriculares.png",
-    nombre:"• Energy Sistem SoundReel TV: Cine en tus Oídos 🎧",
-    desc:"Solicitado por Carlos. Lleva el cine a tus oídos sin molestar a nadie. Disfruta tus películas favoritas con sonido de alta claridad, almohadillas ultra cómodas y cero retrasos de audio..",
-    enlace:"https://link.amazon/B09x7XQYf"
+    img:"imagenes/Xoopar Octopus Cable Multi USB 4 en 1 de Plástico Reciclado - Azul.jpeg",
+    nombre:"Xoopar Octopus Cable Multi USB 4 en 1 de Plástico Reciclado - Azul",
+    desc:"Olvídate de enredos y de llevar múltiples cables a todas partes. El cargador Xoopar Octopus conecta y alimenta todos tus dispositivos con un solo accesorio. Cuenta con entrada USB estándar y cuatro salidas listas para usar: Lightning (iPhone), USB-C y Micro USB. El compañero de viaje perfecto, compacto y con un diseño divertido que se adapta a tu estilo.",
+    enlace:"https://https://link.amazon/B0gvj43OZ"
   },
   
   {
     img:"imagenes/STGAubronComputadora.png",
     nombre:"PC STGaubron Gaming: Potencia Pura para Forjar tus Victorias ⚔️💻",
     desc:"Entra al juego con un rendimiento brutal. Con los gráficos de la RTX 2060, un procesador Ryzen 5 y 16GB de RAM, esta PC está lista para correr tus juegos competitivos favoritos a máxima velocidad y con una iluminación RGB espectacular que transformará tu habitación.",
-    enlace:"https://link.amazon/B077EVJQE"
+    enlace:"https://link.amazon/B03K8PsXH"
   }
 ];
 
