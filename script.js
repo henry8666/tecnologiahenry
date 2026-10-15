@@ -30,6 +30,20 @@ const productos = [
   },
 
   {
+    img:"imagenes/Garza - Pack 2 Altavoces Rio Portátil con 15 Modos de Luz LED Multicolor4.jpeg",
+    nombre:"Garza - Pack 2 Altavoces Rio Portátil con 15 Modos de Luz LED Multicolor",
+    razon:"Los recomendamos (2 altavoces Bluetooth Garza Rio traen sonido 360° y 15 modos de luces LED multicolor para darle color a tu música. 🌈 🔊Pack de 2 uno para ti, otro para regalar)Bluetooth mas manos libresRanura Micro SD y USB CCompactos, llévalos a todos lados",
+    enlace:"https://link.amazon/B02h9cpYU",
+    galeria: [
+      "imagenes/Garza - Pack 2 Altavoces Rio Portátil con 15 Modos de Luz LED Multicolor4.jpeg",
+    
+      "imagenes/Garza - Pack 2 Altavoces Rio Portátil con 15 Modos de Luz LED Multicolor3.jpeg"
+    
+      
+    ]
+  },
+
+  {
     img:"imagenes/Belkin Gaming Bolsa de Viaje Bolsillo para AirTag Nintendo Switch 2 Carbón4.png",
     nombre:"Belkin Gaming Bolsa de Viaje Bolsillo para AirTag Nintendo Switch 2 Carbón.",
     razon:"Los recomendamos (🎮 ¡Protege tu Nintendo Switch 2 con estilo! Funda Belkin de viaje color Carbón: carcasa rígida, interior acolchado, compacta y ligera. Con bolsillo para AirTag y tarjetas de juegos. ¡Ideal para viajar!).",
