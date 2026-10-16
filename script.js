@@ -15,12 +15,12 @@ const productos = [
   },
 
   {
-    img:"imagenes/Cámara de Vigilancia WiFi Interior 360º, 1080p, Detección IA.jpeg",
+    img:"imagenes/Tapo C200 - Cámara de Vigilancia WiFi Interior 360º, 1080p, Detección IA.jpeg",
     nombre:"Tapo C200 lo ves TODO desde tu móvil, estés donde estés. 📱",
     razon:"Los recomendamos (😱 Y está a 21,99€ ¡en vez de 39,99€! Es un -45% y ya la han comprado más de 4.000 personas el mes pasado… por algo será. 🔥",
     enlace:"https://link.amazon/B0bkRRAS4",
     galeria: [
-      "imagenes/Cámara de Vigilancia WiFi Interior 360º, 1080p, Detección IA.jpeg",
+      "imagenes/Tapo C200 - Cámara de Vigilancia WiFi Interior 360º, 1080p, Detección IA.jpeg",
       "imagenes/Tapo C200 - Cámara de Vigilancia WiFi Interior 360º, 1080p, Detección IA.5.jpeg",
        "imagenes/Tapo C200 - Cámara de Vigilancia WiFi Interior 360º, 1080p, Detección IA3.jpeg",
       "imagenes/Tapo C200 - Cámara de Vigilancia WiFi Interior 360º, 1080p, Detección IA6.jpeg",
