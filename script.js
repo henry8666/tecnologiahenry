@@ -116,18 +116,8 @@ const productos = [
       
     
     ]
-  },
-  {
-    img:"imagenes/lapto (1).png",
-    nombre:"ASUS TUF A16: Domina tu Destino 🔥",
-    razon:"El escenario donde se forjan las leyendas. ⚔️✨No es solo una laptop; es la puerta de entrada a mundos extraordinarios y victorias inolvidables. Con la fuerza bruta del procesador AMD Ryzen 7 y la velocidad de los gráficos RTX 4050, la ASUS TUF A16 está diseñada para superar contigo cada desafío y convertir tus horas de juego en pura pasión.Despierta al guerrero que llevas dentro y conquista tus metas diarias..",
-    enlace:"https://link.amazon/B08U1LfRB",
-    galeria: [
-      "imagenes/lapto (1).png",
-      "imagenes/lapto3 (1).png",
-       "latop4.png"    
-    ]
   }
+ 
 ];
 
 /* ---------- 2) Productos solicitados por la comunidad ---------- */
