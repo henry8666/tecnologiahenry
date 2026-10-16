@@ -23,7 +23,7 @@ const productos = [
       "imagenes/SONOFF S60TPF.jpeg",
       "imagenes/SONOFF S60TPF2.jpeg",
        "imagenes/SONOFF S60TPF3.jpeg",
-      "SONOFF S60TPF4.jpeg"
+      "imagenes/SONOFF S60TPF4.jpeg"
       
     ]
   },
