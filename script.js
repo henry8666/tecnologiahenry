@@ -15,6 +15,20 @@ const productos = [
   },
 
   {
+    img:"imagenes/SONOFF S60TPF.jpeg",
+    nombre:"SONOFF S60TPF - Enchufe Inteligente WiFi con Alexa y Google Home",
+    razon:"🏠 ¿Y si pudieras encender la tele, la lámpara o el ventilador con solo hablar o desde el móvil? Con el enchufe inteligente SONOFF lo haces en segundos. 📱✨ ",
+    enlace:"https://link.amazon/B00nPPTbg",
+    galeria: [
+      "imagenes/SONOFF S60TPF.jpeg",
+      "imagenes/SONOFF S60TPF2.jpeg",
+       "imagenes/SONOFF S60TPF3.jpeg",
+      "SONOFF S60TPF4.jpeg"
+      
+    ]
+  },
+
+  {
     img:"imagenes/Tapo C200 - Cámara de Vigilancia WiFi Interior 360º, 1080p, Detección IA.jpeg",
     nombre:"Tapo C200 lo ves TODO desde tu móvil, estés donde estés. 📱",
     razon:"Los recomendamos (😱 Y está a 21,99€ ¡en vez de 39,99€! Es un -45% y ya la han comprado más de 4.000 personas el mes pasado… por algo será. 🔥",
