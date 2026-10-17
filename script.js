@@ -13,6 +13,20 @@ const productos = [
       
     ]
   },
+   {
+    img:"imagenes/M mimotec - Tira LED RGB2.jpeg",
+    nombre:"✨ 3 metros de luces RGB para tu habitación por 9,22€",
+    razon:"🌈 ¿Quieres darle vida a tu cuarto, tu setup gamer o una fiesta? Esta tira LED RGB de 3 metros lo cambia TODO. 💡",
+    enlace:"https://link.amazon/B0fxbOxpf",
+    galeria: [
+      "imagenes/M mimotec - Tira LED RGB2.jpeg",
+      "imagenes/M mimotec - Tira LED RGB4.jpeg",
+       "imagenes/ mimotec - Tira LED RGB3.jpeg",
+      "imagenes/M mimotec - Tira LED RGB.jpeg"
+      
+    ]
+  },
+
 
   {
     img:"imagenes/SONOFF S60TPF.jpeg",
