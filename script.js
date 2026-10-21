@@ -13,6 +13,20 @@ const productos = [
       
     ]
   },
+
+   {
+    img:"imagenes/Proyector 4K .png",
+    nombre:"AKIYO Proyector Portátil 4K WiFi 6 y Bluetooth 5.4 - Cine en Casa",
+    razon:"🎥 ¿Te imaginas ver tus películas, series o jugar la PS5 en una pantalla GIGANTE en tu pared? Con el proyector portátil AKIYO conviertes cualquier cuarto en un cine. 🍿🔥Imagen nítida 4K / Full HD 1080p — se ve espectacularEnfoque automático se ajusta solo, sin complicaciones WiFi 6  Bluetooth 5.4 conecta tu móvil, PS5, USB, lo que quieras 📱🎮Apps integradas — Netflix, YouTube y más, directo Portátil — llévalo a donde quieras 🎒😍 Y lo mejo ¡cine en casa por solo 84,99€! Mucho más barato que una tele gigante. 🔥⭐ 4,2/5 con 680 opiniones  gente feliz de verdad ",
+    enlace:"https://link.amazon/B0cddB6b1",
+    galeria: [
+      "imagenes/Proyector 4K 2.png",
+      "imagenes/Proyector 4K 3.png",
+       "imagenes/Proyector 4K 5.png",
+      "imagenes/Proyector 4K 6.png"
+      
+    ]
+  },
    {
     img:"imagenes/M mimotec - Tira LED RGB2.jpeg",
     nombre:"✨ 3 metros de luces RGB para tu habitación por 9,22€",
