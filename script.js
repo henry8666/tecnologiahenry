@@ -26,7 +26,7 @@ const productos = [
       "imagenes/Beurer TS 17 Calientacamas eléctrico6.png"
       
     ]
-  },0.
+  },
 
    {
     img:"imagenes/Proyector 4K .png",
