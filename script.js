@@ -15,15 +15,15 @@ const productos = [
   },
 
   {
-    img:"imagenes/Beurer TS 17 Calientacamas eléctrico6.png",
+    img:"imagenes/Beurer TS 17 Calientacamas eléctrico2,.png",
     nombre:"🔥 Calientacamas Beurer TS 17 – Métete en una Cama Calentita y Olvídate del Frío ❄️➡️😴",
     razon:"Cansado de meterte en una cama helada? 🥶 El calientacamas Beurer TS 17 calienta tus sábanas en minutos con 3 niveles de temperatura 🌡️ y sistema de seguridad con apagado automático para dormir tranquilo toda la noche. 😴✨Tamaño 150 x 80 cm, tejido supersuave, antideslizante y se ajusta con banda elástica para que no se mueva. ¡Gasta mucho menos que la calefacción y duermes como un rey! 👑🔥⭐ 4,3 estrellas · 🗣️ +959 opiniones · 💶 27,99€ (¡-32% de descuento!",
     enlace:"https://link.amazon/A03elLAAc",
     galeria: [
       "imagenes/Beurer TS 17 Calientacamas eléctrico.png",
-      "imagenes/Beurer TS 17 Calientacamas eléctrico4.png",
-       "imagenes/Beurer TS 17 Calientacamas eléctrico,3.png",
-      "imagenes/Beurer TS 17 Calientacamas eléctrico6.png"
+      "imagenes/Beurer TS 17 Calientacamas eléctrico,3.png",
+       "imagenes/Beurer TS 17 Calientacamas eléctrico,4).png",
+      "imagenes/Beurer TS 17 Calientacamas eléctrico2.png"
       
     ]
   },
