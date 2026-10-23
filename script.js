@@ -22,7 +22,7 @@ const productos = [
     galeria: [
       "imagenes/Beurer TS 17 Calientacamas eléctrico.png",
       "imagenes/Beurer TS 17 Calientacamas eléctrico,3.png",
-       "imagenes/Beurer TS 17 Calientacamas eléctrico,4).png",
+       "imagenes/Beurer TS 17 Calientacamas eléctrico,4).png", 
       "imagenes/Beurer TS 17 Calientacamas eléctrico2.png"
       
     ]
