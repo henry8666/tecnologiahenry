@@ -14,6 +14,20 @@ const productos = [
     ]
   },
 
+    {
+    img:"imagenes/Amazon Basics Calefactor8.png",
+    nombre:"🔥 Calefactor Cerámico Amazon Basics – Habitación Calentita en 2 Minutos ❄️➡️☀️",
+    razon:"¿Frío en casa y no quieres encender toda la calefacción? 🥶 Este calefactor cerámico de 1800W calienta tu habitación en un par de minutos 🌡️ y tiene termostato ajustable para poner el calor justo que quieres. 😌🔥Pequeño, en forma de torre 🗼, ocupa nada y lo llevas de la sala al cuarto fácil. ¡Gasta mucho menos que la calefacción central y calienta al instante! 💡⭐ 4,5 estrellas · 🗣️ +1.437 opiniones · 🛒 ¡+900 vendidos el mes pasado! · 💶 Solo 16,49€ ",
+    enlace:"https://link.amazon/B02qamVvi",
+    galeria: [
+      "imagenes/Amazon Basics Calefactor4.png",
+      "imagenes/Amazon Basics Calefactor5.png",
+       "imagenes/Amazon Basics Calefactor6.png",
+      "imagenes/Amazon Basics Calefactor7.png"
+      
+    ]
+  },
+
   {
     img:"imagenes/Beurer TS 17 Calientacamas eléctrico2,.png",
     nombre:"🔥 Calientacamas Beurer TS 17 – Métete en una Cama Calentita y Olvídate del Frío ❄️➡️😴",
