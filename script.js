@@ -14,6 +14,20 @@ const productos = [
     ]
   },
 
+  {
+    img:"imagenes/KSIX Adjustable Desktop Tripod Ring Light2.png",
+    nombre:"🌈 ¡Sal ESPECTACULAR en tus vídeos! Aro de luz KSIX con 15 colores y efectos ✨📱",
+    razon:"¿Quieres salir como un profesional en TikTok y tus selfies? 🤩 Este aro de luz KSIX tiene 15 colores y efectos 🌈, 10 niveles de brillo y 3 tonos de luz para que te veas perfecto en cualquier vídeo. 📱✨Trae soporte ajustable para el móvil 📲 y se controla por Bluetooth 🔵. ¡Ideal para TikTok, fotos, directos y videollamadas! Y por este precio… ¡es un regalazo! 🎁⭐ 4,2 estrellas · 🗣️ +427 opiniones · 💶 ¡Solo 15,90€",
+    enlace:"https://link.amazon/B0a9sDbTv",
+    galeria: [
+      "imagenes/KSIX Adjustable Desktop Tripod Ring Light1.png",
+      "imagenes/KSIX Adjustable Desktop Tripod Ring Light3.png",
+       "imagenes/KSIX Adjustable Desktop Tripod Ring Light4.png",
+      "imagenes/KSIX Adjustable Desktop Tripod Ring Light6.png"
+      
+    ]
+  },
+
     {
     img:"imagenes/Amazon Basics Calefactor8.png",
     nombre:"🔥 Calefactor Cerámico Amazon Basics – Habitación Calentita en 2 Minutos ❄️➡️☀️",
