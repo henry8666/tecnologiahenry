@@ -14,6 +14,20 @@ const productos = [
     ]
   },
 
+   {
+    img:"imagenes/Smart Watch1.png",
+    nombre:"⌚ Smartwatch con Llamadas y WhatsApp – El Regalo Estrella por Solo 33€ 🎁🔥",
+    razon:"Buscas un smartwatch que lo haga TODO sin gastarte una fortuna? ⌚✨ Este reloj inteligente IOWODO te deja hacer y recibir LLAMADAS 📞, leer WhatsApp 💬 y controlar tu salud (ritmo cardíaco ❤️, oxígeno, sueño 😴) desde la muñeca",
+    enlace:"https://link.amazon/B03O8lkV4",
+    galeria: [
+      "imagenes/Smart Watch.png",
+      "imagenes/Smart Watch2.png",
+       "imagenes/Smart Watch3.png",
+      "imagenes/Smart Watch4.png"
+      
+    ]
+  },
+
   {
     img:"imagenes/KSIX Adjustable Desktop Tripod Ring Light2.png",
     nombre:"🌈 ¡Sal ESPECTACULAR en tus vídeos! Aro de luz KSIX con 15 colores y efectos ✨📱",
