@@ -13,6 +13,19 @@ const productos = [
       
     ]
   },
+   {
+    img:"imagenes/Soporte para portátil1.png",
+    nombre:"El soporte de portátil de 8,49 € que transformará tu escritorio para siempre",
+    razon:"Tu portátil está 15 cm por debajo de tus ojos, y tu cuello lo paga cada día. Este soporte de aluminio GRIFEMA lo eleva a la altura correcta en segundos y te deja elegir entre 7",
+    enlace:"https://link.amazon/B04YZNCM8",
+    galeria: [
+      "imagenes/Soporte para portátil2.png",
+      "imagenes/Soporte para portátil3.png",
+       "imagenes/Soporte para portátil4.png",
+      "imagenes/Soporte para portátil5.png"
+      
+    ]
+  },
 
    {
     img:"imagenes/Smart Watch1.png",
