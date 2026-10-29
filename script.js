@@ -17,12 +17,11 @@ const productos = [
    {
     img:"imagenes/Etiqueta inteligente 2 negra2.png",
     nombre:"Samsung SmartTag 2 – No Pierdas Nunca Más tus Llaves, Mochila o Mascota ",
-    razon:"Cuántas veces has perdido las llaves o la cartera? 😩 El Samsung SmartTag 2 se engancha a lo que quieras y lo localizas al instante desde tu móvil Samsung 📍. ¡Incluso te lleva "en caliente/frío" hasta encontrarlo! 🔥❄️
-
-",
+    razon:"Cuántas veces has perdido las llaves o la cartera? 😩 El Samsung SmartTag 2 se engancha a lo que quieras y lo localizas al instante desde tu móvil Samsung 📍. ¡Incluso te lleva "en caliente/frío" hasta encontrarlo! 🔥❄️",
     enlace:"https://link.amazon/B0gyO90KK",
     galeria: [
       "imagenes/Etiqueta inteligente 2 negra2.png",
+      "imagenes/LEtiqueta inteligente 2 negra3.png,
       "imagenes/Etiqueta inteligente 2 negra3.png"
     
       
