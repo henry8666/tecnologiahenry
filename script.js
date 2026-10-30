@@ -14,6 +14,22 @@ const productos = [
     ]
   },
 
+   {
+    img:"imagenes/VEEKTOMX Power Bank 1.png",
+    nombre:"🔋 Batería portátil 20.000mAh con CABLES INCLUIDOS — el chollo del mes",
+    razon:"¿Te quedas sin batería a media tarde? 😩 Esta power bank de 20.000mAh carga tu móvil VARIAS veces y ya trae los cables integrados (no cargas cable aparte nunca más 🙌).",
+    enlace:"https://link.amazon/B04VNwbJY",
+    galeria: [
+      "imagenes/VEEKTOMX Power 4.png",
+      "imagenes/VEEKTOMX Power 5.png",
+      "imagenes/VEEKTOMX Power 6.png",
+      "imagenes/VEEKTOMX Power 7.png",
+      "imagenes/VEEKTOMX Power Bank 2.png",
+      "imagenes/VEEKTOMX Power Bank 1.png"
+      
+    ]
+  },
+
    
    {
     img:"imagenes/Etiqueta inteligente 2 negra2.png",
