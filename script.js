@@ -13,6 +13,21 @@ const productos = [
       
     ]
   },
+      {
+    img:"imagenes/eclado-ratón1.png",
+    nombre:"⌨️🖱️ Teclado + ratón inalámbricos EN ESPAÑOL — el combo chollo para tu PC",
+    razon:"¿Cansado de cables y de teclados en inglés? 😤 Este combo trae TECLADO + RATÓN inalámbricos, y el teclado es en ESPAÑOL (con la ñ y teclado numérico 🙌).",
+    enlace:"https://link.amazon/B020R5HiJ",
+    galeria: [
+      "imagenes/eclado-ratón2.png",
+      "imagenes/eclado-ratón3.png",
+      "imagenes/eclado-ratón4.png",
+      "imagenes/eclado-ratón5.png",
+      "imagenes/eclado-ratón6.png",
+      "imagenes/eclado-ratón8.png"
+      
+    ]
+  },
 
    {
     img:"imagenes/VEEKTOMX Power Bank 1.png",
