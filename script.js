@@ -302,7 +302,7 @@ const solicitados = [
 ];
 
 /* =======================================================================
-   DE AQUÍ EN ADELANTE ES LA LÓGICA. No necesitas cambiar nada.
+   
    ======================================================================= */
 const TEXTO_BOTON = "Ver precio actual y opiniones en Amazon";
 
