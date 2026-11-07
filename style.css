@@ -329,3 +329,23 @@ a{text-decoration:none;color:inherit;}
   padding: 15px;            /* Le da un margen interno elegante para que respire */
   cursor: zoom-in;
 }
+#recomendados,
+#solicitados{
+  
+  background-image:
+    linear-gradient(rgba(0,0,0,.65), rgba(0,0,0,.65)),
+    url("imagenes/fondo_supermercado.png");
+
+  background-size: cover;         
+  background-position: center;    
+  background-repeat: no-repeat;   
+  background-attachment: fixed;    
+}
+
+
+@media (max-width: 768px){
+  #recomendados,
+  #solicitados{
+    background-attachment: scroll;
+  }
+}
