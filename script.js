@@ -310,7 +310,7 @@ const solicitados = [
      "imagenes/Estación 3.png",
       "imagenes/Estación 4.png",
      "imagenes/Estación 5.png",
-      "imagenes/Estación 6.png",
+      "imagenes/Estación 6.png"
      
   },
   {
