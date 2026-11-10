@@ -300,11 +300,11 @@ const productos = [
 /* ---------- 2) Productos solicitados por la comunidad ---------- */
 const solicitados = [
   {
-    img:"imagenes/ Barra de Sonido con Iluminación RGB 12W,4.png",
-    nombre:"Barra de Sonido Gaming GXTrust GXT 620⚡",
-    desc:"El mejor precio en tu alcance.Dale Vida a tu Escritorio! Barra de Sonido Gaming GXTrust GXT 620 Axon 12W con Iluminación RGB 🎧🔥.",
-    enlace:"https://link.amazon/B07GecZim",
-    ali:"https://link.amazon/B07GecZim"
+    img:"imagenes/Estación 2.png",
+    nombre:"Hub USB C y USB 8 en 2 | Adaptador Multifunción para Laptop, Tablet y Celular",
+    desc:"¿Tu laptop o celular tiene pocos puertos? 🚀 Con esta Estación de Acoplamiento 8 en 2 tendrás todas las conexiones que necesitas en un solo adaptador compacto y elegante.",
+    enlace:"#",
+    ali:"https://s.click.aliexpress.com/e/_c4kakj2B"
   },
   {
     img:"imagenes/Xoopar Octopus Cable Multi USB 4 en 1 de Plástico Reciclado - Azul.jpeg",
