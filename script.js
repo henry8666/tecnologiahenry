@@ -297,18 +297,21 @@ const productos = [
  
 ];
 
-/* ---------- 2) Productos solicitados por la comunidad ---------- */
+/* ---------- Productos solicitados por la comunidad en Aliexpress---------- */
 const solicitados = [
   {
-    img:"imagenes/ Barra de Sonido con Iluminación RGB 12W,4.png",
-    nombre:"Barra de Sonido Gaming GXTrust GXT 620⚡",
-    desc:"El mejor precio en tu alcance.Dale Vida a tu Escritorio! Barra de Sonido Gaming GXTrust GXT 620 Axon 12W con Iluminación RGB 🎧🔥.",
-    enlace:"https://link.amazon/B07GecZim",
-    ali:"https://link.amazon/B07GecZim",
+    img:"imagenes/ Estación 2.png",
+    nombre:"¡CONECTA TODO CON 1 SOLO CABLE! Hub 8 en 2 USB-C + USB Ultra Delgado con Audio, Lector SD y Alta Velocidad para Laptop, Tablet y Teléfono",
+    desc:"El secreto: trae DOBLE conector USB 3.0 + Tipo-C, por eso es compatible con casi TODOS tus equipos, viejos y nuevos.",
+    enlace:"#",
+    ali:"https://s.click.aliexpress.com/e/_c3WN50hh",
     galeria: [
-      "imagenes/ Barra de Sonido con Iluminación RGB 12W,4.png"
-      // 👉 Aqui puedes agregar mas fotos de este producto, una por linea (acuerdate de la coma al final de cada linea menos la ultima)
-    ]
+      "imagenes/ Estación .png",
+     "imagenes/Estación 3.png",
+      "imagenes/Estación 4.png",
+     "imagenes/Estación 5.png",
+      "imagenes/Estación 6.png",
+     
   },
   {
     img:"imagenes/Xoopar Octopus Cable Multi USB 4 en 1 de Plástico Reciclado - Azul.jpeg",
