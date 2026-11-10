@@ -301,7 +301,7 @@ const productos = [
 const solicitados = [
   {
     img:"imagenes/ Estación 2.png",
-    nombre:"¡CONECTA TODO CON 1 SOLO CABLE! Hub 8 en 2 USB-C + USB Ultra Delgado con Audio, Lector SD y Alta Velocidad para Laptop, Tablet y Teléfono",
+    nombre:"CONECTA TODO CON 1 SOLO CABLE! Hub 8 en 2 USB-C  USB Ultra Delgado con Audio, Lector SD y Alta Velocidad para Laptop,Tablet y Teléfono",
     desc:"El secreto: trae DOBLE conector USB 3.0 + Tipo-C, por eso es compatible con casi TODOS tus equipos, viejos y nuevos.",
     enlace:"#",
     ali:"https://s.click.aliexpress.com/e/_c3WN50hh",
@@ -311,7 +311,7 @@ const solicitados = [
       "imagenes/Estación 4.png",
      "imagenes/Estación 5.png",
       "imagenes/Estación 6.png"
-     
+      ]
   },
   {
     img:"imagenes/Xoopar Octopus Cable Multi USB 4 en 1 de Plástico Reciclado - Azul.jpeg",
