@@ -314,14 +314,18 @@ const solicitados = [
       ]
   },
   {
-    img:"imagenes/Xoopar Octopus Cable Multi USB 4 en 1 de Plástico Reciclado - Azul.jpeg",
-    nombre:"Xoopar Octopus Cable Multi USB 4 en 1 de Plástico Reciclado - Azul",
+    img:"imagenes/Nuevo Reloj .png",
+    nombre:"Potencia, estilo y resistencia en tu muñeca. El nuevo Reloj Militar 2026 con pantalla HD, linterna integrada,",
     desc:"Olvídate de enredos y de llevar múltiples cables a todas partes. El cargador Xoopar Octopus conecta y alimenta todos tus dispositivos con un solo accesorio. Cuenta con entrada USB estándar y cuatro salidas listas para usar: Lightning (iPhone), USB-C y Micro USB. El compañero de viaje perfecto, compacto y con un diseño divertido que se adapta a tu estilo.",
     enlace:"https://link.amazon/B026yt6Lo",
     ali:"#",
     galeria: [
-      "imagenes/Xoopar Octopus Cable Multi USB 4 en 1 de Plástico Reciclado - Azul.jpeg"
-      // 👉 Aqui puedes agregar mas fotos de este producto
+      "imagenes/Nuevo Reloj 2.png",
+      "imagenes/Nuevo Reloj 3.png",
+     "imagenes/Nuevo Reloj 4.png",
+      "imagenes/Nuevo Reloj 5.png",
+     "imagenes/Nuevo Reloj 7.png",
+      "imagenes/Nuevo Reloj 8.png"
     ]
   },
 
