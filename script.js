@@ -303,7 +303,7 @@ const solicitados = [
     img:"imagenes/Estación 2.png",
     nombre:"CONECTA TODO CON 1 SOLO CABLE! Hub 8 en 2 USB-C  USB Ultra Delgado con Audio, Lector SD y Alta Velocidad para Laptop,Tablet y Teléfono",
     desc:"El secreto: trae DOBLE conector USB 3.0 + Tipo-C, por eso es compatible con casi TODOS tus equipos, viejos y nuevos.",
-    enlace:"#",
+    
     ali:"https://s.click.aliexpress.com/e/_c3WN50hh",
     galeria: [
       "imagenes/Estación .png",
@@ -317,7 +317,7 @@ const solicitados = [
     img:"imagenes/Nuevo Reloj .png",
     nombre:"Potencia, estilo y resistencia en tu muñeca. El nuevo Reloj Militar 2026 con pantalla HD, linterna integrada,",
     desc:"Olvídate de enredos y de llevar múltiples cables a todas partes. El cargador Xoopar Octopus conecta y alimenta todos tus dispositivos con un solo accesorio. Cuenta con entrada USB estándar y cuatro salidas listas para usar: Lightning (iPhone), USB-C y Micro USB. El compañero de viaje perfecto, compacto y con un diseño divertido que se adapta a tu estilo.",
-    enlace:"#",
+   
     ali:"https://s.click.aliexpress.com/e/_c2JJMZAf",
     galeria: [
       "imagenes/Nuevo Reloj 2.png",
