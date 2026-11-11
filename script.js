@@ -303,6 +303,17 @@ const productos = [
       "imagenes/STGAubronComputadora.png"
      
     ]
+  },
+  {
+    img:"imagenes/Xoopar Octopus Cable Multi USB 4 en 1 de Plástico Reciclado - Azul.jpeg",
+    nombre:"Xoopar Octopus Cable Multi USB 4 en 1 de Plástico Reciclado - Azul",
+    desc:"Olvídate de enredos y de llevar múltiples cables a todas partes. El cargador Xoopar Octopus conecta y alimenta todos tus dispositivos con un solo accesorio. Cuenta con entrada USB estándar y cuatro salidas listas para usar: Lightning (iPhone), USB-C y Micro USB. El compañero de viaje perfecto, compacto y con un diseño divertido que se adapta a tu estilo.",
+    enlace:"https://link.amazon/B026yt6Lo",
+    ali:"#",
+    galeria: [
+      "imagenes/Xoopar Octopus Cable Multi USB 4 en 1 de Plástico Reciclado - Azul.jpeg"
+      // 👉 Aqui puedes agregar mas fotos de este producto
+    ]
   }
 
  
@@ -338,22 +349,7 @@ const solicitados = [
      "imagenes/Nuevo Reloj 7.png",
       "imagenes/Nuevo Reloj 8.png"
     ]
-  },
-
-  {
-    img:"imagenes/Xoopar Octopus Cable Multi USB 4 en 1 de Plástico Reciclado - Azul.jpeg",
-    nombre:"Xoopar Octopus Cable Multi USB 4 en 1 de Plástico Reciclado - Azul",
-    desc:"Olvídate de enredos y de llevar múltiples cables a todas partes. El cargador Xoopar Octopus conecta y alimenta todos tus dispositivos con un solo accesorio. Cuenta con entrada USB estándar y cuatro salidas listas para usar: Lightning (iPhone), USB-C y Micro USB. El compañero de viaje perfecto, compacto y con un diseño divertido que se adapta a tu estilo.",
-    enlace:"https://link.amazon/B026yt6Lo",
-    ali:"#",
-    galeria: [
-      "imagenes/Xoopar Octopus Cable Multi USB 4 en 1 de Plástico Reciclado - Azul.jpeg"
-      // 👉 Aqui puedes agregar mas fotos de este producto
-    ]
   }
-  
- 
-
 ];
 
 /* =======================================================================
