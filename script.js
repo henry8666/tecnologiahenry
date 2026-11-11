@@ -336,7 +336,7 @@ const solicitados = [
       ]
   },
  {
-    img:"imagenes/BOYHOM 4.png",
+    img:"imagenes/BOYHOM 5.png",
     nombre:"🎮 Consola Retro R36S – Revive los Clásicos Donde Quieras",
     desc:"Echas de menos los videojuegos con los que creciste? 🕹️❤️ La consola retro R36S te mete MILES de juegos clásicos en el bolsillo: Mario, Sonic, Pokémon y un montón más de tus consolas favoritas de siempre.",
     
