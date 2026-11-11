@@ -335,6 +335,23 @@ const solicitados = [
       "imagenes/Estación 6.png"
       ]
   },
+ {
+    img:"imagenes/Estación 2.png",
+    nombre:"🎮 Consola Retro R36S – Revive los Clásicos Donde Quieras",
+    desc:"Echas de menos los videojuegos con los que creciste? 🕹️❤️ La consola retro R36S te mete MILES de juegos clásicos en el bolsillo: Mario, Sonic, Pokémon y un montón más de tus consolas favoritas de siempre.",
+    
+    ali:"https://s.click.aliexpress.com/e/_c32ol0FV",
+    galeria: [
+      "imagenes/BOYHOM 2.png",
+     "imagenes/BOYHOM 3.png",
+      "imagenes/BOYHOM 4.png",
+     "imagenes/BOYHOM 5.png",
+     "imagenes/BOYHOM 7.png",
+     "imagenes/BOYHOM 8.png",
+      "imagenes/BOYHOM 256G.png",
+      "imagenes/BOYHOM 6.png"
+      ]
+  },
   {
     img:"imagenes/Nuevo Reloj .png",
     nombre:"Potencia, estilo y resistencia en tu muñeca. El nuevo Reloj Militar 2026 con pantalla HD, linterna integrada,",
