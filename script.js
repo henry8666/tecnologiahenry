@@ -307,9 +307,8 @@ const productos = [
 
  
 ];
->*******************************************************************************
+
 /* ---------- Productos solicitados por la comunidad en Aliexpress---------- */
- ******************************************************************************>
 const solicitados = [
   {
     img:"imagenes/Estación 2.png",
