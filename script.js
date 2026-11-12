@@ -355,7 +355,7 @@ const solicitados = [
   {
     img:"imagenes/Reloj Inteligente 8.png",
     nombre:"Reloj Inteligente LIGE 2026: Con Voz AI y Linterna",
-    desc:"El LIGE 2026 es una pasada: Voz AI integrada, llamadas por Bluetooth, pantalla HD de 2,01", linterna, y control de salud 24/7.",
+    desc:"El LIGE 2026 es una pasada: Voz AI integrada, llamadas por Bluetooth, pantalla HD de 2,01", linterna, y control de salud 24/7",
    
     ali:"https://s.click.aliexpress.com/e/_c2vLVfLH",
     galeria: [
