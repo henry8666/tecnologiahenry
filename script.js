@@ -353,18 +353,18 @@ const solicitados = [
       ]
   },
   {
-    img:"imagenes/Nuevo Reloj .png",
-    nombre:"Potencia, estilo y resistencia en tu muñeca. El nuevo Reloj Militar 2026 con pantalla HD, linterna integrada,",
-    desc:"Olvídate de enredos y de llevar múltiples cables a todas partes. El cargador Xoopar Octopus conecta y alimenta todos tus dispositivos con un solo accesorio. Cuenta con entrada USB estándar y cuatro salidas listas para usar: Lightning (iPhone), USB-C y Micro USB. El compañero de viaje perfecto, compacto y con un diseño divertido que se adapta a tu estilo.",
+    img:"imagenes/Reloj Inteligente 8.png",
+    nombre:"Reloj Inteligente LIGE 2026: Con Voz AI y Linterna",
+    desc:"El LIGE 2026 es una pasada: Voz AI integrada, llamadas por Bluetooth, pantalla HD de 2,01", linterna, y control de salud 24/7.",
    
     ali:"https://s.click.aliexpress.com/e/_c2JJMZAf",
     galeria: [
-      "imagenes/Nuevo Reloj 2.png",
-      "imagenes/Nuevo Reloj 3.png",
-     "imagenes/Nuevo Reloj 4.png",
-      "imagenes/Nuevo Reloj 5.png",
-     "imagenes/Nuevo Reloj 7.png",
-      "imagenes/Nuevo Reloj 8.png"
+      "imagenes/Reloj Inteligente 7.png",
+      "imagenes/Reloj Inteligente 6.png",
+     "imagenes/Reloj Inteligente 5.png",
+      "imagenes/Reloj Inteligente 4.png",
+     "imagenes/Reloj Inteligente 3.png",
+      "imagenes/Reloj Inteligente 10.png"
     ]
   }
 ];
