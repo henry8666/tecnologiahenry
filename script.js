@@ -322,17 +322,17 @@ const productos = [
 /* ---------- Productos solicitados por la comunidad en Aliexpress---------- */
 const solicitados = [
   {
-    img:"imagenes/Estación 2.png",
-    nombre:"CONECTA TODO CON 1 SOLO CABLE! Hub 8 en 2 USB-C  USB Ultra Delgado con Audio, Lector SD y Alta Velocidad para Laptop,Tablet y Teléfono",
-    desc:"El secreto: trae DOBLE conector USB 3.0 + Tipo-C, por eso es compatible con casi TODOS tus equipos, viejos y nuevos.",
+    img:"imagenes/Gafas de lectura .png",
+    nombre:"Gafas de cerca con filtro azul desde 7,89€",
+    desc:"¿Lees mucho y acabas con los ojos cansados? Estas gafas de cercaredondas llevan filtro de luz azul y montura ligera que no aprieta.Estilo clásico, valen para hombre y mujer. Hay 16 aumentos, desde+0,50 hasta +4,00 dioptrías, así que encuentras la tuya seguro.Envío gratis a España y llegan en 4 días. Míralas aquí 👉 #gafasdecerca #gafasdelectura #antiluzazul #gafasredondas#presbicia #vistacansada #gafasbaratas #ofertas",
     enlace:"#",
-    ali:"#",
+    ali:"https://s.click.aliexpress.com/e/_c4quEkd5",
     galeria: [
-      "imagenes/Estación .png",
-     "imagenes/Estación 3.png",
-      "imagenes/Estación 4.png",
-     "imagenes/Estación 5.png",
-      "imagenes/Estación 6.png"
+      "imagenes/Gafas de lectura 1.png",
+     "imagenes/Gafas de lectura 2.png",
+      "imagenes/Gafas de lectura 3.png",
+     "imagenes/Gafas de lectura 4.png",
+      "imagenes/Gafas de lectura 6.png"
       ]
   },
  {
