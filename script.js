@@ -339,7 +339,7 @@ const solicitados = [
     img:"imagenes/BOYHOM 5.png",
     nombre:"🎮 Consola Retro R36S – Revive los Clásicos Donde Quieras",
     desc:"Echas de menos los videojuegos con los que creciste? 🕹️❤️ La consola retro R36S te mete MILES de juegos clásicos en el bolsillo: Mario, Sonic, Pokémon y un montón más de tus consolas favoritas de siempre.",
-    
+    enlace:"#",
     ali:"https://s.click.aliexpress.com/e/_c32ol0FV",
     galeria: [
       "imagenes/BOYHOM 2.png",
@@ -356,7 +356,7 @@ const solicitados = [
     img:"imagenes/Reloj Inteligente 8.png",
     nombre:"Reloj Inteligente LIGE 2026 Con Voz AI y Linterna",
     desc:"El LIGE 2026 es una pasada: Voz AI integrada, llamadas por Bluetooth, pantalla HD de 2,01 linterna",
-   
+   enlace:"#",
     ali:"https://s.click.aliexpress.com/e/_c2vLVfLH",
     galeria: [
       "imagenes/Reloj Inteligente 7.png",
