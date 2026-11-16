@@ -31,6 +31,20 @@ const productos = [
     ]
   },
 
+  {
+    img:"imagenes/Mochila.png",
+    nombre:"Mochila Helly Hansen Loke 25L",
+    razon:"Marca noruega de outdoor, resistente y ligera. 25 litros para senderismo, viaje o el día a día. 4,5★ con 184 opiniones. Envío gratis a España.",
+    enlace:"https://link.amazon/B0iNLAB2c",
+    ali:"#",
+    galeria: [
+      "imagenes/Mochila.png",
+      "imagenes/Mochila2.png"
+   
+      
+    ]
+  },
+
    {
     img:"imagenes/VEEKTOMX Power Bank 1.png",
     nombre:"🔋 Batería portátil 20.000mAh con CABLES INCLUIDOS — el chollo del mes",
