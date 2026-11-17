@@ -381,6 +381,25 @@ const solicitados = [
       "imagenes/BOYHOM 6.png"
       ]
   },
+
+  {
+    img:"imagenes/Business .png",
+    nombre:"Auriculares Inalámbricos Business 2025 con Micrófono: ideales para teletrabajo y conducir",
+    desc:"🎧 Business Headset 2025 Wireless Over-Ear con Micrófono y Estuche de Carga 500mAh
+",
+    enlace:"#",
+    ali:"https://s.click.aliexpress.com/e/_c3qvd0rr",
+    galeria: [
+      "imagenes/Business 1.png",
+     "imagenes/Business 2.png",
+      "imagenes/Business 3.png",
+     "imagenes/Business 4.png",
+     "imagenes/Business 5.png",
+     "imagenes/Business 6.png",
+      "imagenes/Business 7.png",
+      "imagenes/Business .png"
+      ]
+  },
   {
     img:"imagenes/Reloj Inteligente 8.png",
     nombre:"Reloj Inteligente LIGE 2026 Con Voz AI y Linterna",
