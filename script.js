@@ -385,8 +385,7 @@ const solicitados = [
   {
     img:"imagenes/Business .png",
     nombre:"Auriculares Inalámbricos Business 2025 con Micrófono: ideales para teletrabajo y conducir",
-    desc:"🎧 Business Headset 2025 Wireless Over-Ear con Micrófono y Estuche de Carga 500mAh
-",
+    desc:"🎧 Business Headset 2025 Wireless Over-Ear con Micrófono y Estuche de Carga 500mAh",
     enlace:"#",
     ali:"https://s.click.aliexpress.com/e/_c3qvd0rr",
     galeria: [
