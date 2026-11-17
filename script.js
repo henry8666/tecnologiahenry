@@ -30,6 +30,21 @@ const productos = [
       
     ]
   },
+{
+    img:"imagenes/Barra de Sonido con Iluminación RGB 12W.png",
+    nombre:"Barra de sonido gaming Trust GXT Axon con RGB",
+    razon:"Lleva la atmósfera de tus juegos, películas y música al siguiente nivel con la barra de sonido Trust GXT Axon. Diseñada para integrarse perfectamente debajo de cualquier monitor de PC o portátil,",
+    enlace:"https://link.amazon/B05wlZJO3",
+    ali:"#",
+    galeria: [
+      "imagenes/Barra de Sonido con Iluminación RGB 12W2.png",
+      "imagenes/Barra de Sonido con Iluminación RGB 12W3.png"
+     
+      
+    ]
+  },
+
+ 
 
   {
     img:"imagenes/Mochila.png",
