@@ -323,16 +323,7 @@ const productos = [
     
     ]
   },
-  {
-    img:"imagenes/STGAubronComputadora.png",
-    nombre:"PC STGaubron Gaming: Potencia Pura para Forjar tus Victorias ⚔️💻",
-    desc:"Entra al juego con un rendimiento brutal. Con los gráficos de la RTX 2060, un procesador Ryzen 5 y 16GB de RAM, esta PC está lista para correr tus juegos competitivos favoritos a máxima velocidad y con una iluminación RGB espectacular que transformará tu habitación.",
-    enlace:"https://link.amazon/B03K8PsXH",
-    galeria: [
-      "imagenes/STGAubronComputadora.png"
-     
-    ]
-  },
+
   {
     img:"imagenes/Xoopar Octopus Cable Multi USB 4 en 1 de Plástico Reciclado - Azul.jpeg",
     nombre:"Xoopar Octopus Cable Multi USB 4 en 1 de Plástico Reciclado - Azul",
