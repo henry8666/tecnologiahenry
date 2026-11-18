@@ -30,6 +30,22 @@ const productos = [
       
     ]
   },
+  {
+    img:"imagenes/Ringke .png",
+    nombre:"Tarjetero para móvil: sal sin cartera por 11,99€",
+    razon:"¿¿Sales de casa sin cartera? Este tarjetero adhesivo se pega detrásdel móvil y lleva hasta 3 tarjetas con un sistema de pinza que nose sueltan. Va con cualquier funda y no abulta nada. Tiene 1.564opiniones y 4,3 estrellas, así que está más que probado.",
+    enlace:"https://link.amazon/B02Thv9H8",
+    ali:"#",
+    galeria: [
+      "imagenes/Ringke 2.png",
+      "imagenes/Ringke 3.png",
+      "imagenes/Ringke 4.png",
+      "imagenes/Ringke 5.png",
+      "imagenes/Ringke 6.png"
+     
+      
+    ]
+  },
 {
     img:"imagenes/Barra de Sonido con Iluminación RGB 12W.png",
     nombre:"Barra de sonido gaming Trust GXT Axon con RGB",
