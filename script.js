@@ -30,6 +30,7 @@ const productos = [
       
     ]
   },
+ 
   {
     img:"imagenes/Ringke .png",
     nombre:"Tarjetero para móvil: sal sin cartera por 11,99€",
@@ -388,6 +389,22 @@ const solicitados = [
       "imagenes/BOYHOM 6.png"
       ]
   },
+  {
+    img:"imagenes/UPERFECT .png",
+    nombre:"Monitor portátil UPERFECT 15,6 Full HD dos pantallas donde sea",
+    desc:"Una segunda pantalla que cabe en la mochila. 15,6 pulgadas IPS en Full HD con HDR400, se conecta con un solo cable USB-C al portátil o al mini PC y trae altavoces y soporte para ponerlo en vertical. Sirve igual para trabajar en un coworking que para ver series en el hotel, y no te obliga a cargar con un monitor de escritorio. Envío gratis a España y 90 días para devolverlo sin coste.",
+    enlace:"#",
+    ali:"https://s.click.aliexpress.com/e/_c4VcMSRJ",
+    galeria: [
+      "imagenes/UPERFECT 2.png",
+     "imagenes/UPERFECT 3.png",
+      "imagenes/UPERFECT 4.png",
+     "imagenes/UPERFECT 6.png",
+     "imagenes/UPERFECT1 .png"
+    
+      ]
+  },
+
 
   {
     img:"imagenes/Business .png",
